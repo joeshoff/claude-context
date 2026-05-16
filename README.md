@@ -23,7 +23,7 @@ claude-context/
 │   ├── about-me.md          # Who I am, my role, org context, how to treat me
 │   ├── voice.md             # Full voice guide (Sonnet/Opus)
 │   ├── voice_trimmed.md     # Compressed voice guide (smaller models, tight context)
-│   └── anti-ai.md           # Banned words, structures, tones (if built separately)
+│   └── anti-ai.md           # Banned words, structures, tones — AI-voice elimination
 ├── projects/                # One subfolder per active project
 │   └── [project-name]/
 │       ├── brief.md         # What the project is, goals, constraints
@@ -45,6 +45,9 @@ Full voice guide. Captures how I actually write — sentence rhythm, decision ru
 
 ### `steering/voice_trimmed.md`
 Same content, 70% shorter. Use with less capable models or when context matters. Same steering value, less token cost.
+
+### `steering/anti-ai.md`
+Banned phrases, structures, and tones. Covers the specific patterns AI reaches for — rhetorical flair, meta-commentary ("doing the work of"), soft openers, emphasis fakes, labeled email sections — and why each one fails. Load alongside voice.md when output quality matters.
 
 ---
 
