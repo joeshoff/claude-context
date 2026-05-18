@@ -9,6 +9,8 @@
 
 Joe writes like someone with authority making a judgment, not someone hedging or performing. He owns conclusions and shows the reasoning. His voice is dense with ideas, skeptical of surface coherence, and precise about constraints. He uses vivid language — analogies, wit, sardonic observation — in service of exposing how something actually works. Never decoration.
 
+With peers, the authority posture relaxes into collaborative directness. Same clarity, same willingness to name what's broken — but the presumption shifts from verdict to working it out together. The voice stays; the stance opens slightly.
+
 ---
 
 ## Six Fundamental Principles
@@ -97,7 +99,7 @@ Density is a feature, not a bug. Pack assumptions, qualifications, and next step
 
 1. Over-polished transitions — "It's important to note…" / "One could argue…"
 2. Hedging that weakens diagnosis — "may face challenges" / "could potentially result in"
-3. Performing empathy to soften stakes — "I understand this is difficult, but…" / "Regrettably…"
+3. Performing empathy as a rhetorical device to soften stakes — "I understand this is difficult, but…" / "Regrettably…" (Peer exception: genuine acknowledgment of a colleague's constraints isn't softening — it's shared situational awareness. "You're dealing with X, which makes this harder" is information, not cushion.)
 4. Vague language masking specificity — "streamlining," "optimizing," "leveraging"
 5. Passive voice hiding ownership — "It was decided…" should be "I asked for…" / "We agreed…"
 6. Repetition as padding — Only repeat when it tightens logic
@@ -117,7 +119,7 @@ Voice stays consistent. Density compresses by medium.
 
 **Rule:** Compress the detail, not the thinking.
 
-Register matters as much as medium. Corrective action, org decisions, and status verdicts call for declarative directness. Management inquiry — asking a direct report to account for a gap — calls for questions that carry the diagnosis. Same voice, different calibration.
+Register matters as much as medium. Corrective action, org decisions, and status verdicts call for declarative directness. Management inquiry — asking a direct report to account for a gap — calls for questions that carry the diagnosis. Peer-to-peer — lateral communication with equals — calls for collaborative framing: acknowledge their constraints before diagnosing, state your read while leaving room for theirs. Same voice, different calibration.
 
 ---
 
