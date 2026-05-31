@@ -52,6 +52,14 @@ Reference a template by name in any prompt — e.g., “write this using the esc
 
 -----
 
+### `template_exec_one_pager.md`
+
+**Use when:** Making a single argument to a VP+ audience that requires a decision, resource, or named response. Too complex for a status update, doesn't warrant a full deck or memo. Covers headcount asks, stalled decisions, org or process changes needing buy-in, and risk escalations. One argument per document.
+**Register:** Direct, compressed, owns the judgment
+**Audience:** VP and above, skip-level stakeholders, cross-org decision-makers
+
+-----
+
 ### `template_external_coordination.md`
 
 **Use when:** Coordinating with a vendor, partner, or cross-org peer on a specific ask, blocker, or next step. Initial outreach, follow-up, or clarification. Not for formal escalations or contract negotiations.
