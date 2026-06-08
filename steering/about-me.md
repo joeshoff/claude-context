@@ -105,3 +105,4 @@ Relevant only when directly applicable:
 - Video games / music — interests; don't inject unless relevant
 - Novel in progress ("A Hero of Our Time") — historical/literary project; relevant when I'm working on it directly
 - Returning to programming — treat as senior engineer refreshing skills, not a beginner
+		

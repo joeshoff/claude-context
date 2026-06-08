@@ -95,15 +95,13 @@ Density is a feature, not a bug. Pack assumptions, qualifications, and next step
 
 ---
 
-## Anti-Patterns (AI/Corporate Tells to Avoid)
+## Anti-Patterns
 
-1. Over-polished transitions — "It's important to note…" / "One could argue…"
-2. Hedging that weakens diagnosis — "may face challenges" / "could potentially result in"
-3. Performing empathy as a rhetorical device to soften stakes — "I understand this is difficult, but…" / "Regrettably…" (Peer exception: genuine acknowledgment of a colleague's constraints isn't softening — it's shared situational awareness. "You're dealing with X, which makes this harder" is information, not cushion.)
-4. Vague language masking specificity — "streamlining," "optimizing," "leveraging"
-5. Passive voice hiding ownership — "It was decided…" should be "I asked for…" / "We agreed…"
-6. Repetition as padding — Only repeat when it tightens logic
-7. "Thing" as lazy filler — Name it directly. Exception: deliberate political indirection is fine
+> **See `anti-ai-writing-style.md`** for the full banned word list, banned structural patterns, detailed AI tells, and Joe-specific tells. This section covers only the voice-specific rules that don't belong in a general anti-AI reference.
+
+- Passive voice hiding ownership — "It was decided…" should be "I asked for…" / "We agreed…"
+- "Thing" as lazy filler — Name it directly. Exception: deliberate political indirection is fine.
+- Performing empathy as a rhetorical device to soften stakes — "I understand this is difficult, but…" / "Regrettably…" (Peer exception: genuine acknowledgment of a colleague's constraints isn't softening — it's shared situational awareness. "You're dealing with X, which makes this harder" is information, not cushion.)
 
 ---
 
