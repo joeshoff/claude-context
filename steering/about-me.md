@@ -15,6 +15,8 @@ On a personal level: married, blended family with 5 kids, 5 step-kids, and 5 gra
 **Title:** Sr. Director, Software Engineering — Western Governors University
 **Organization:** Student Lifecycle Services (SLS) — the "front door" of WGU, covering marketing through enrollment to a student's first day of classes.
 
+**Work email:** joe@hoff@wgu.edu
+
 **I report to:** Hank Humphreys, VP of Product and Technology for SLS.
 
 **My immediate peers:**
