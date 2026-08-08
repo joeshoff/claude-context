@@ -26,6 +26,7 @@ Write like a sharp human who happens to be typing.
 - Use physical verbs for abstract processes. Say "sanded down," "bolted on," "stripped back." You'll feel the difference.
 - Humor comes from specificity. Be unexpectedly precise.
 - Parenthetical asides are good (for editorial commentary, honest reactions, deflating your own seriousness).
+- Engage the reader, don't just narrate at them. Real rhetorical questions (the kind a reader answers in their head), honest asides that admit a doubt, direct address that points ("notice what that costs you"). Corpus research finds this one of the sharpest human/AI splits: models state everything flat and skip these. Put a genuine one where the argument actually turns. One real question beats three decorative ones.
 - Natural transitions only. No mechanical connectors.
 
 ---
@@ -51,7 +52,7 @@ If even ONE of these appears, the output fails.
 
 These words are statistically overrepresented in LLM output. They are the fingerprint of AI text. Never use them.
 
-delve, realm, harness, unlock, tapestry, paradigm, cutting-edge, revolutionize, landscape (abstract), intricate/intricacies, showcasing, crucial, pivotal, surpass, meticulously, vibrant, unparalleled, underscore (verb), leverage, synergy, innovative, game-changer, testament, commendable, meticulous, highlight (verb), emphasize, boast, groundbreaking, align, foster, showcase, enhance, holistic, garner, accentuate, pioneering, trailblazing, unleash, versatile, transformative, redefine, seamless, optimize, scalable, robust, breakthrough, empower, streamline, frictionless, elevate, adaptive, effortless, data-driven, insightful, proactive, mission-critical, visionary, disruptive, reimagine, unprecedented, intuitive, leading-edge, synergize, democratize, accelerate, state-of-the-art, dynamic, immersive, predictive, transparent, proprietary, integrated, plug-and-play, turnkey, future-proof, paradigm-shifting, supercharge, enduring, interplay, valuable, captivate, load-bearing, multifaceted, noteworthy, unwavering, ever-evolving, embark, comprehensive, navigate, nuanced, ecosystem, alignment (as goal, not condition), thoughtful, impactful, unpack, double-click (as verb), socialize (when "share" or "discuss" is meant), visibility (when "awareness" or "information" is what you mean)
+delve, realm, harness, unlock, tapestry, paradigm, cutting-edge, revolutionize, landscape (abstract), intricate/intricacies, showcasing, crucial, pivotal, surpass, meticulously, vibrant, unparalleled, underscore (verb), leverage, synergy, innovative, game-changer, testament, commendable, meticulous, highlight (verb), emphasize, boast, groundbreaking, align, foster, showcase, enhance, holistic, garner, accentuate, pioneering, trailblazing, unleash, versatile, transformative, redefine, seamless, optimize, scalable, robust, breakthrough, empower, streamline, frictionless, elevate, adaptive, effortless, data-driven, insightful, proactive, mission-critical, visionary, disruptive, reimagine, unprecedented, intuitive, leading-edge, synergize, democratize, accelerate, state-of-the-art, dynamic, immersive, predictive, transparent, proprietary, integrated, plug-and-play, turnkey, future-proof, paradigm-shifting, supercharge, enduring, interplay, valuable, captivate, multifaceted, noteworthy, unwavering, ever-evolving, embark, comprehensive, navigate, nuanced, ecosystem, alignment (as goal, not condition), thoughtful, impactful, unpack, double-click (as verb), socialize (when "share" or "discuss" is meant), visibility (when "awareness" or "information" is what you mean)
 
 Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "features a," "offers a" when used to avoid "is" or "has." Just say "is."
 
@@ -77,6 +78,8 @@ Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "f
 - "Challenges and Future Prospects" as a section header
 - "One could argue…"
 - "Overall," "In conclusion," "In summary," "To recap," "As noted above"
+- "Sit with"
+- "It is structural" / "the problem is structural" as a standalone verdict (significance inflation, see 4A). Fine when it names an actual structure; a tell when nothing structural follows.
 
 ### 3C. Dead transitions
 
@@ -103,7 +106,7 @@ Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "f
 
 ### 3F. THE BIG ONE (FATAL)
 
-**Negative parallelisms and reframe constructions.** This is the single most reliable tell of AI-generated text. Peer-reviewed research backs this up. AI is addicted to these because they make shallow ideas sound profound. They're a crutch. A tic. Every single LLM does it, in every single output, multiple times per response.
+**Negative parallelisms, reframe constructions, and the balanced pairs they belong to.** This is the single most reliable tell of AI-generated text. Peer-reviewed research backs this up. AI is addicted to these because they make shallow ideas sound profound. They're a crutch. A tic. Every single LLM does it, in every single output, multiple times per response.
 
 If you see even ONE in your output, rewrite the entire sentence.
 
@@ -129,6 +132,15 @@ If you see even ONE in your output, rewrite the entire sentence.
 - "While X might seem right, Y is actually..." (same pattern wearing a trench coat)
 - "Sure, X works. But Y is where the real..." (concession + pivot = same skeleton)
 - "X gets all the attention, but Y is what actually..." (same thing, third disguise)
+
+**The same reflex without a negation.** The "not" is one symptom. The deeper habit is filing two ideas into matched clauses for the shape of insight, and it carries no negation, so it slips through every pattern above:
+- "clean at the ends, different in the middle"
+- "cheap early, expensive late"
+- "while X holds, Y matters too"
+- "whether you're a beginner or an expert..."
+- "our risk is commitment risk; its risk is quality risk"
+
+Equal weight, parallel grammar, balanced on a fulcrum. The balance is the tell, negation or not. Fix: break the symmetry. Say one side plainly, or give the two sides different grammatical weight so the sentence stops swinging on a hinge.
 
 **Why this matters so much:** every AI model generates these dozens of times per response. ChatGPT, Claude, Gemini, Grok. All of them. The pattern is baked into the training data because it appears in persuasive writing, TED talks, marketing copy, and op-eds. When an LLM wants to sound smart, this is its first instinct. So when your reader sees it, their brain registers: machine.
 
@@ -222,6 +234,18 @@ One sentence on its own line for emphasis. Occasionally earned; AI overuses it.
 
 Use only when the sentence genuinely ends something. Otherwise embed it.
 
+### 4O. Architectural sameness
+
+Above the sentence, AI builds every section to one blueprint: a bolded lead-in on every bullet, uniform paragraph blocks, a table wherever two columns of thought exist. The regularity itself reads as machine, even when every word is clean. (Section 2 and 4L cover the pieces. This is the pattern they add up to.)
+
+Let some points run as plain prose. Vary how sections open. Keep tables for data you'd actually tabulate. If every bullet in a list starts with a bolded phrase, you're formatting for the look of rigor.
+
+### 4P. The profound closer
+
+AI can't resist ending on a summarizing epigram: "That's the whole game." "The rest is detail." "X is the point." It reads as reaching for depth on the way out. This is significance inflation (4A) aimed at the exit, and it's why Sections 1 and 2 both say to just stop.
+
+End on the last real thing you had to say. If the closing line only restates the section in a wiser tone, cut it.
+
 ---
 
 ## 5. JOE-SPECIFIC TELLS
@@ -239,7 +263,8 @@ AI loves to comment on language rather than use it. Joe diagnoses structures; he
 - "doing the work of [X]"
 - "[X] is doing a lot of work here"
 - "[X] does heavy lifting"
-- "sit with [X] a moment" “sits with”, “sits outside” – Joe almost never uses “sits” unless something is physically sitting or setting. He might use “lives with on occasion”. Find some equivalent way of saying this if “sits” is coming up in any way other than the physical meaning.)
+- "[X] is load-bearing" (watch, not a hard ban: fine used literally once, where something genuinely holds another thing up. A tic when it just means "this matters," or on the second appearance in a doc.)
+- "sit with [X] a moment" ("sits with", "sits outside" -- Joe almost never uses "sits" unless something is physically sitting or setting. He might use "lives with on occasion". Find some equivalent way of saying this if "sits" is coming up in any way other than the physical meaning.)
 
 ### The emotional flatness tell
 
