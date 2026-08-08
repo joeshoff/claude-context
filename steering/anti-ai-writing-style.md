@@ -239,7 +239,7 @@ AI loves to comment on language rather than use it. Joe diagnoses structures; he
 - "doing the work of [X]"
 - "[X] is doing a lot of work here"
 - "[X] does heavy lifting"
-- "sit with [X] a moment"
+- "sit with [X] a moment" “sits with”, “sits outside” – Joe almost never uses “sits” unless something is physically sitting or setting. He might use “lives with on occasion”. Find some equivalent way of saying this if “sits” is coming up in any way other than the physical meaning.)
 
 ### The emotional flatness tell
 
