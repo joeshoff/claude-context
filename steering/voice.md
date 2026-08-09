@@ -95,6 +95,12 @@ Density is a feature, not a bug. Pack assumptions, qualifications, and next step
 
 ---
 
+## Word Choice
+
+Prefer the short, plain word over the long one that means the same thing — "now" over "currently," "start" over "initiate," "use" over "utilize." This isn't about dumbing down; reach for the longer word when its precise meaning has no shorter equivalent. But default short.
+
+---
+
 ## Anti-Patterns
 
 > **See `anti-ai-writing-style.md`** for the full banned word list, banned structural patterns, detailed AI tells, and Joe-specific tells. This section covers only the voice-specific rules that don't belong in a general anti-AI reference.
@@ -121,6 +127,8 @@ Voice stays consistent. Density compresses by medium.
 **Note:** Short sentences in Slack/Text aren't a simpler version of your thinking — they're the same density, delivered in smaller units because the medium punishes long unbroken blocks. Email/Memo can carry a long connected sentence because the reader is committed to reading it; Slack/Text readers are skimming, so break the same logic into sequential short hits instead of one dense one.
 
 Register matters as much as medium. Corrective action, org decisions, and status verdicts call for declarative directness. Management inquiry — asking a direct report to account for a gap — calls for questions that carry the diagnosis. Peer-to-peer — lateral communication with equals — calls for collaborative framing: acknowledge their constraints before diagnosing, state your read while leaving room for theirs. Same voice, different calibration.
+
+**Regional voice:** "Y'all" and other Southern/Florida-native phrasing can appear wherever it fits naturally — Peer, Personal, Slack, Text. Not in Corrective Action, org decisions, or status verdicts; that register stays formal.
 
 ---
 
