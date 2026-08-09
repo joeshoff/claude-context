@@ -42,6 +42,8 @@ Don't bury qualifications in caveats. Embed them in the claim.
 
 The numbers aren't naked. You've disclosed why they matter and where they might break.
 
+**Corollary:** vague quantity words ("slightly," "significantly," "roughly," "way over") are a form of mumbling. If you know the number, use it — "one day late," "overspent by $10,000" — instead of the word that gestures at it.
+
 ---
 
 ### 4. Name What Doesn't Work, Carefully
