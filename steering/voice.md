@@ -101,6 +101,8 @@ Density is a feature, not a bug. Pack assumptions, qualifications, and next step
 
 Prefer the short, plain word over the long one that means the same thing — "now" over "currently," "start" over "initiate," "use" over "utilize." This isn't about dumbing down; reach for the longer word when its precise meaning has no shorter equivalent. But default short.
 
+Where you have a choice, favor the shorter, punchier Anglo-Saxon word over the fancier Latinate one — "crash" over "collision," "hurl" over "propel," "start" over "commence." Same instinct as the short-word rule above; this just names the linguistic pattern behind it.
+
 ---
 
 ## Anti-Patterns
