@@ -95,6 +95,12 @@ Density is a feature, not a bug. Pack assumptions, qualifications, and next step
 
 ---
 
+## Closing
+
+End with a summary, not a new idea. The summary restates the essentials you've already made — it doesn't introduce fresh points. If the piece reaches a conclusion, the summary should carry that too. Purpose: fix the message in the reader's mind, not extend the argument.
+
+---
+
 ## Anti-Patterns
 
 > **See `anti-ai-writing-style.md`** for the full banned word list, banned structural patterns, detailed AI tells, and Joe-specific tells. This section covers only the voice-specific rules that don't belong in a general anti-AI reference.
