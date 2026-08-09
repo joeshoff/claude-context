@@ -95,12 +95,6 @@ Density is a feature, not a bug. Pack assumptions, qualifications, and next step
 
 ---
 
-## Closing
-
-End with a summary, not a new idea. The summary restates the essentials you've already made — it doesn't introduce fresh points. If the piece reaches a conclusion, the summary should carry that too. Purpose: fix the message in the reader's mind, not extend the argument.
-
----
-
 ## Anti-Patterns
 
 > **See `anti-ai-writing-style.md`** for the full banned word list, banned structural patterns, detailed AI tells, and Joe-specific tells. This section covers only the voice-specific rules that don't belong in a general anti-AI reference.
@@ -119,10 +113,12 @@ Voice stays consistent. Density compresses by medium.
 | Medium | Approach |
 |---|---|
 | Email / Memo | Full density. Show full reasoning. |
-| Slack | Compress detail, not thinking. Same decision rules, shorter support. |
-| Text | Functional. Terse but still you. |
+| Slack | Compress detail, not thinking. Same decision rules, shorter support. Short sentences, short paragraphs — one idea per line when possible. |
+| Text | Functional. Terse but still you. Short sentences by default. |
 
 **Rule:** Compress the detail, not the thinking.
+
+**Note:** Short sentences in Slack/Text aren't a simpler version of your thinking — they're the same density, delivered in smaller units because the medium punishes long unbroken blocks. Email/Memo can carry a long connected sentence because the reader is committed to reading it; Slack/Text readers are skimming, so break the same logic into sequential short hits instead of one dense one.
 
 Register matters as much as medium. Corrective action, org decisions, and status verdicts call for declarative directness. Management inquiry — asking a direct report to account for a gap — calls for questions that carry the diagnosis. Peer-to-peer — lateral communication with equals — calls for collaborative framing: acknowledge their constraints before diagnosing, state your read while leaving room for theirs. Same voice, different calibration.
 
@@ -159,3 +155,9 @@ The mechanism is the same. The stakes are just higher.
 6. Use analogies that reveal system structure.
 7. Avoid corporate softening. State the reality.
 8. Own judgments. "I asked for…" / "I expect…" / "To my mind…"
+
+---
+
+## Closing
+
+End with a summary, not a new idea. The summary restates the essentials you've already made — it doesn't introduce fresh points. If the piece reaches a conclusion, the summary should carry that too. Purpose: fix the message in the reader's mind, not extend the argument.
