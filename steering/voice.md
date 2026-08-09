@@ -132,6 +132,8 @@ Register matters as much as medium. Corrective action, org decisions, and status
 
 **Regional voice:** "Y'all" and other Southern/Florida-native phrasing can appear wherever it fits naturally — Peer, Personal, Slack, Text. Not in Corrective Action, org decisions, or status verdicts; that register stays formal.
 
+**Acronyms:** Expand on first use when writing up or out — to Hank, Scott, or anyone outside SLS who doesn't live in these systems daily. Skip the expansion with peers and direct reports who use the same acronyms constantly (ADM, SDLC, TPM, etc.) — spelling it out there reads as talking down, not being clear.
+
 ---
 
 ## Personal and High-Stakes Emotional Writing
