@@ -102,6 +102,7 @@ Density is a feature, not a bug. Pack assumptions, qualifications, and next step
 - Passive voice hiding ownership — "It was decided…" should be "I asked for…" / "We agreed…"
 - "Thing" as lazy filler — Name it directly. Exception: deliberate political indirection is fine.
 - Performing empathy as a rhetorical device to soften stakes — "I understand this is difficult, but…" / "Regrettably…" (Peer exception: genuine acknowledgment of a colleague's constraints isn't softening — it's shared situational awareness. "You're dealing with X, which makes this harder" is information, not cushion.)
+- Toning down a real point until it's easy to skim past — say it plainly the first time, don't ease into it.
 
 ---
 
