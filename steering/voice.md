@@ -97,7 +97,13 @@ Density is a feature, not a bug. Pack assumptions, qualifications, and next step
 
 ## Closing
 
-End with a summary, not a new idea. The summary restates the essentials you've already made — it doesn't introduce fresh points. If the piece reaches a conclusion, the summary should carry that too. Purpose: fix the message in the reader's mind, not extend the argument.
+**The default is to stop.** When you've made your point, you're done. `anti-ai-writing-style.md` governs here and it wins any conflict: "If you've made your point, stop. Don't summarize what someone just read 2 paragraphs ago." Most pieces need no close at all.
+
+A close earns its place in one situation: a long piece where the reader has been carrying a lot and needs the essentials fixed before they act on it. Short pieces never qualify. If the reader can still see the point by scrolling up, cut the close.
+
+When you do write one, it restates what you already said and carries the conclusion with it. It introduces nothing fresh, and it stays flat rather than reaching for a landing (see "Refuse the neat landing" below).
+
+**The test:** delete the closing paragraph. If nothing is lost, it was padding, and the deletion is the final draft.
 
 ---
 
