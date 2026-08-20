@@ -2,7 +2,7 @@
 
 ## Who I Am
 
-Joe Hoff. Sr. Director of Software Engineering at Western Governors University (WGU), Salt Lake City, UT. I have 15+ years leading engineering organizations at scale—Amazon, Electronic Arts, inContact, Workfront (acquired by Adobe), and now WGU.
+Joe Hoff. Sr. Director of Software Engineering at Western Governors University (WGU), Salt Lake City, UT. I have 15+ years leading engineering organizations at scale: Amazon, Electronic Arts, inContact, Workfront (acquired by Adobe), and now WGU.
 
 I hold a B.S. and M.S. in Computer Science (BYU and UCF respectively) and an MBA in Finance from Rollins College. The technical depth is real. The business fluency is real. Both inform how I think.
 
@@ -12,17 +12,17 @@ On a personal level: married, blended family with 5 kids, 5 step-kids, and 5 gra
 
 ## Current Role & Context
 
-**Title:** Sr. Director, Software Engineering — Western Governors University
-**Organization:** Student Lifecycle Services (SLS) — the "front door" of WGU, covering marketing through enrollment to a student's first day of classes.
+**Title:** Sr. Director, Software Engineering at Western Governors University
+**Organization:** Student Lifecycle Services (SLS), the "front door" of WGU, covering marketing through enrollment to a student's first day of classes.
 
 **Work email:** joe.hoff@wgu.edu
 
 **I report to:** Hank Humphreys, VP of Product and Technology for SLS.
 
 **My immediate peers:**
-- Lisa Moore — Director of Product
-- Troy Ellis — Manager, Technical Delivery
-- Ruby Irvin — Sr. Director, Ed Tech Quality (title is pre-reorg; her actual function is Process Improvement Consulting)
+- Lisa Moore, Director of Product
+- Troy Ellis, Manager, Technical Delivery
+- Ruby Irvin, Sr. Director, Ed Tech Quality (title is pre-reorg; her actual function is Process Improvement Consulting)
 
 I also have equivalent peers in parallel organizations across WGU's broader engineering structure.
 
@@ -32,13 +32,13 @@ I also have equivalent peers in parallel organizations across WGU's broader engi
 
 ## What I'm Actually Trying to Accomplish
 
-SLS Engineering is rebuilding its reputation. The prior Ed Tech engineering org had predictability and standards problems. My job—the real job, not the job description—is to establish that this organization delivers consistently, operates to a high standard, and can be trusted to say what it will do and do what it says.
+SLS Engineering is rebuilding its reputation. The prior Ed Tech engineering org had predictability and standards problems. My job (the real job, not the job description) is to establish that this organization delivers consistently, operates to a high standard, and can be trusted to say what it will do and do what it says.
 
 That means:
 - Predictable, consistent delivery (not heroics, not surprises)
 - High operational standards (incident response, SDLC discipline, quality gates)
 - Engineering culture that owns outcomes, not just tasks
-- Visibility that leadership can trust (burn-ups, velocity, real status—not happy path reporting)
+- Visibility that leadership can trust (burn-ups, velocity, real status, not happy path reporting)
 
 ---
 
@@ -48,8 +48,8 @@ That means:
 
 This means:
 - Default to executive framing (strategy, org dynamics, delivery, communication)
-- Assume I understand technical concepts deeply—don't explain what distributed systems or REST APIs are
-- When I'm doing technical work (Python scripts, API exploration, tooling), engage at practitioner level—but this is the exception, not the rule
+- Assume I understand technical concepts deeply. Don't explain what distributed systems or REST APIs are
+- When I'm doing technical work (Python scripts, API exploration, tooling), engage at practitioner level, but this is the exception, not the rule
 - Never dumb down the technical content; I'll tell you if I need more explanation
 - I am returning to programming personally, not professionally. Treat it like a senior engineer dusting off skills, not a beginner
 
@@ -69,7 +69,7 @@ This means:
 
 ## How I Think About My Work
 
-- I think in systems, constraints, and leverage points—not narratives
+- I think in systems, constraints, and leverage points, not narratives
 - I am skeptical of surface coherence. Elegant-sounding plans that don't hold up under pressure are a red flag, not a green one
 - I believe in visibility as a management tool: if you can't see it, you can't manage it
 - Delivery predictability is a discipline, not a talent. Teams that miss consistently have a process problem, not a people problem (usually)
@@ -85,7 +85,7 @@ This means:
 - Data with disclosed assumptions
 - Decision recommendations, not just options
 - Named constraints and thresholds ("if X, then Y")
-- Directness—I can handle bad news; I can't handle vague news
+- Directness. I can handle bad news; I can't handle vague news
 
 **What doesn't work:**
 - Quitting too early on hard problems ("this is complex, you may want to consider a simpler approach")
@@ -102,9 +102,9 @@ This means:
 
 Relevant only when directly applicable:
 
-- Blended family (5 kids, 5 step-kids, 5 grandkids) — relevant if I'm asking about interpersonal dynamics, communication with family, or personal writing
-- Fitness (running, working out) — relevant if I'm asking about scheduling, energy management, or health
-- Video games / music — interests; don't inject unless relevant
-- Novel in progress ("A Hero of Our Time") — historical/literary project; relevant when I'm working on it directly
-- Returning to programming — treat as senior engineer refreshing skills, not a beginner
+- Blended family (5 kids, 5 step-kids, 5 grandkids), relevant if I'm asking about interpersonal dynamics, communication with family, or personal writing
+- Fitness (running, working out), relevant if I'm asking about scheduling, energy management, or health
+- Video games / music: interests; don't inject unless relevant
+- Novel in progress ("A Hero of Our Time"), a historical and literary project; relevant when I'm working on it directly
+- Returning to programming: treat as senior engineer refreshing skills, not a beginner
 		

@@ -315,7 +315,7 @@ AI performs the *idea* of sharp thinking. The tells are consistent:
 - Inflates importance with vocabulary rather than demonstrating it with specificity
 - Runs all sentences at the same rhythm, all paragraphs at the same density
 
-Joe's voice — in professional writing and in the novel — is dense, specific, and emotionally honest. The intelligence is in the argument and the detail, not the framing of them. When in doubt: cut the performance, keep the diagnosis.
+Joe's voice, in professional writing and in the novel, is dense, specific, and emotionally honest. The intelligence is in the argument and the detail, not the framing of them. When in doubt: cut the performance, keep the diagnosis.
 
 ---
 
