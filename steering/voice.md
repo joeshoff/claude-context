@@ -111,6 +111,42 @@ End with a summary, not a new idea. The summary restates the essentials you've a
 - Toning down a real point until it's easy to skim past — say it plainly the first time, don't ease into it.
 
 ---
+### Sardonic register
+
+- **Ellipsis carries the beat.** " ... " marks a pause where the judgment lands,
+  or a deliberately unfinished thought: "he sent me the deck ... which ... existed,
+  I guess?" / "I really felt ... same movie, second time." Use it where a lesser
+  writer would add a sentence explaining the joke.
+- **One-beat skeptical questions close arguments.** "Sure?" / "which ... existed,
+  I guess?" These dismiss. They are not the Socratic questions above, which open.
+  Do not confuse the two: a teaching question invites an answer, a dismissal does not.
+- **Compressed referents assume shared context.** A one-word callback like "same
+  movie, second time" carries a whole pattern. Use them with readers who have the
+  context, never with those who don't. Take care naming a real person inside one:
+  a shorthand that turns somebody's name into a failure mode outlives the moment
+  and travels further than intended.
+
+### Hedging: scope yes, verdict no
+
+Supersedes any reading of "Decision Rules, Not Hedges" as a ban on qualifiers, and resolves the apparent conflict with the anti-AI guide's "hedge when uncertain."
+
+The verdict is flat and owned. The *scope of the claim* gets qualified precisely, because precision is the point: "That role is (potentially) a manager of managers though admittedly not in this case." The hedge narrows what is being claimed. It never softens whether it is claimed.
+
+Corporate softening is still banned. "It may be worth considering" hedges the
+verdict, which is the thing that must not move.
+
+### Refuse the neat landing
+
+The last sentence of a section is where writing turns into performance. Prefer the plain consequence to the rhetorical closer.
+
+- "That's the whole call." → "The missing one is a problem."
+- "hasn't sat with where the intersections fail" → "hasn't worked through where the intersections fail"
+
+If a closing line sounds quotable, it is probably doing less work than a flatter one. Cut it or replace it with the consequence.
+
+### Direct address inside shared documents
+
+When a document names an owner for something, address them: "Priya you own this section" rather than "Priya owns this section." Third person reports; second person assigns. Other readers can follow a hand-off addressed to someone else.
 
 ## Medium Adjustments
 
