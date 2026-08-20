@@ -256,8 +256,8 @@ These patterns apply specifically when writing as Joe or on his behalf. The gene
 
 AI loves to comment on language rather than use it. Joe diagnoses structures; he doesn't perform cleverness about them.
 
-❌ "which isn't an argument, it's a metaphor doing the work of one" — sounds incisive, is AI flair
-✅ "that's not a rationale — it's a metaphor standing in for one" — same point, no performance
+❌ "which isn't an argument, it's a metaphor doing the work of one" (sounds incisive, is AI flair)
+✅ "that's a metaphor standing in for a rationale" (same point, no performance)
 
 **Variants to watch:**
 - "doing the work of [X]"
