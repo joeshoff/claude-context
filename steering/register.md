@@ -46,6 +46,26 @@ Hygiene survives. No em dashes, no banned words, no reframe constructions, in an
 
 Two guardrails. If a collegial draft has gone vague, it overshot into mush. Pull a specific back in. If it has gone long, it overshot into professorial. Collegial runs slightly wordier than decisive, a few sentences of connective tissue and one real concession, not a lecture. The skill is holding the diagnosis and the detail while changing only the stance and the pace.
 
+### Where the extra words go, and where they don't
+
+"Slightly wordier" is the trap. The surcharge buys connective tissue and one real concession. It does not buy justifying your own point, and with an equal that is what it usually gets spent on.
+
+The tell is a trailing clause that explains why what you just said matters:
+
+> The easy mistake is reading him against what you'd expect from somebody reporting to you. ~~That isn't a tougher bar, it's a different job, and the number it produces won't tell either of us anything.~~
+
+The first sentence is the whole point. The second tells a peer why the point is a point, which is what you'd write for someone who might not get it. Make the observation and stop. If they disagree they'll say so, and that's the register working.
+
+### Use their words, not the instrument's
+
+Grade codes, JFM row labels and formal org descriptions belong in instruments, where the reader may not share the context. With an insider, use what the two of you actually say out loud: SEM and Sr. SEM rather than M-II and M-III, somebody's name rather than the zone's official description. Writing the instrument's vocabulary at a peer reads as talking to the file rather than to them.
+
+### Asking, without performing the ask
+
+Collegial softens the stance, not the request. "I need half an hour" is collegial. "I'm asking for half an hour, and I want to be straight about what I'm asking and why" is deference performed at someone who did not require it, and with an equal that reads as distance rather than respect.
+
+Two things that do land: name why it's them specifically, and give them a real out. Prefer the true reason over the flattering one. "You're adept at this and I wasn't sure who else I could trust to give it a fair read" is a statement about the relationship, and it gets a yes. "This falls within your area of expertise" is a compliment about their skillset, and it gets a maybe.
+
 Reassurance has its own guardrail: if the draft sounds like you're defending a position nobody attacked, it slipped into decisive or decision-announcement territory. The reader should finish feeling informed, not managed.
 
 ## Same point, both registers

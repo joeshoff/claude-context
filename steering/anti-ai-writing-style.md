@@ -74,6 +74,13 @@ Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "f
 - "Here's the part nobody's talking about" / "What nobody tells you"
 - Anything with "nobody" or "most people don't realize"
 - "In this article, I will..." (all meta commentary about what you're about to do)
+- The conversational version of the same move, which is harder to spot because it sounds
+  warm: "I want to be straight about what I'm asking and why" / "Here's what I'm asking" /
+  "Let me be clear" / "I want to be direct with you" / "let me explain why." You are
+  announcing the shape of the message instead of sending it, and the warmth is what makes
+  it survive editing. Cut the announcement and start with the thing. `register.md` flags
+  two of these as bracing for pushback in reassurance mode; they are a tell in every
+  register, not just that one.
 - "Despite its [positive words], [subject] faces challenges..."
 - "Challenges and Future Prospects" as a section header
 - "One could argue…"
